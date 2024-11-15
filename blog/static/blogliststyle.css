@@ -1,0 +1,12 @@
+* { box-sizing: border-box; }
+.main-container {
+  width: 800px;
+  background-color: aliceblue;
+  margin: 5em auto;
+  padding: 2em;
+}
+.app-title {
+  text-align: center;
+  font-size: 2rem;
+  color: #333;
+}
